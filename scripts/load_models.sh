@@ -1,0 +1,2 @@
+wget https://download.01.org/opencv/2021/openvinotoolkit/2021.2/open_model_zoo/models_bin/3/text-detection-0003/FP32/text-detection-0003.bin -O models/openvino/text_detection/text-detection-0003.bin
+wget https://download.01.org/opencv/2021/openvinotoolkit/2021.2/open_model_zoo/models_bin/3/text-detection-0003/FP32/text-detection-0003.xml -O models/openvino/text_detection/text-detection-0003.xml
